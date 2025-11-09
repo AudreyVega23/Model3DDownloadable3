@@ -2,4 +2,4 @@
 
 Vous pouvez téléchargement ce modèle 3D gratuitement 
 
-<img src="/BolramenGif.gif" alt="GifModel3D" width="30%"/>
+<img src="/BolRamenGif.gif" alt="GifModel3D" width="30%"/>
